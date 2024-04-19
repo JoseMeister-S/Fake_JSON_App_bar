@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "title": "Huari",
+      "imageUrl": "http://res.cloudinary.com/ddrxnz92q/image/upload/v1713483489/Images/Huari.png",
+      "price": "10",
+      "description": "Cerveza Orureña clasica"
+    },
+    {
+      "title": "IPA",
+      "imageUrl": "http://res.cloudinary.com/ddrxnz92q/image/upload/v1713483489/Images/IPA.png",
+      "price": "15",
+      "description": "Amarga y artesanal"
+    },
+    {
+      "title": "Jaggermeister",
+      "imageUrl": "http://res.cloudinary.com/ddrxnz92q/image/upload/v1713483489/Images/Jagger.png",
+      "price": "200",
+      "description": "Botella de 500 ml"
+    },
+    {
+      "title": "Vodka",
+      "imageUrl": "http://res.cloudinary.com/ddrxnz92q/image/upload/v1713483489/Images/Vodka.png",
+      "price": "150",
+      "description": "Marca Smirnoff"
+    },
+    {
+      "title": "Guinness",
+      "imageUrl": "http://res.cloudinary.com/ddrxnz92q/image/upload/v1713483489/Images/Guinness.png",
+      "price": "20",
+      "description": "Cerveza negra Irlandesa"
+    },
+    {
+      "title": "Singani",
+      "imageUrl": "http://res.cloudinary.com/ddrxnz92q/image/upload/v1713483489/Images/Singani.png",
+      "price": "150",
+      "description": "Desilado tarijeño"
+    },
+    {
+      "title": "Ron",
+      "imageUrl": "http://res.cloudinary.com/ddrxnz92q/image/upload/v1713483489/Images/Ron.png",
+      "price": "200",
+      "description": "Destilado de caña"
+    },
+    {
+      "title": "Paceña",
+      "imageUrl": "http://res.cloudinary.com/ddrxnz92q/image/upload/v1713483489/Images/Pacena.png",
+      "price": "10",
+      "description": "Cerveza de la paz"
+    }
+  ]
+}
